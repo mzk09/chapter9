@@ -83,7 +83,7 @@ footer{
   }
 
   .step-box:last-child{
-    margin-bottom: 0;
+    margin: auto;
   }
 
 }
